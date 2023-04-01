@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasanna Sampath</h1>
 <h3 align="center">A passionate software developer from Sri lanka</h3>
 
-- 💬 Ask me about **react, Html, CSS, JavaScript, python, flutter**
+<!-- - 💬 Ask me about **react, Html, CSS, JavaScript, python, flutter** -->
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
