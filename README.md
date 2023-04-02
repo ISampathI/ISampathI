@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasanna Sampath</h1>
-<h3 align="center">A passionate software developer from Sri lanka</h3>
+<h3 align="center">A passionate full-stack developer from Sri lanka</h3>
 
 <!-- - 💬 Ask me about **react, Html, CSS, JavaScript, python, flutter** -->
 
