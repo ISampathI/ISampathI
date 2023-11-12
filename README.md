@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A passionate full-stack developer from Sri lanka
+<h3>&nbsp;&nbsp;A passionate full-stack developer from Sri lanka</h3>
 
 
 ## 🌐 Socials:
